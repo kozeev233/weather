@@ -1,0 +1,27 @@
+.content{
+    height: 100vh;
+    padding: 0;
+    background-color: aquamarine;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background: red;
+    align-items: center;
+}
+.title{
+    text-align: center;
+}
+.button{
+    background: blueviolet;
+    border-radius: 50%;
+}
+.card{
+    background: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.city span{
+    margin-left: 250px;
+}
